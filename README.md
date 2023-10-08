@@ -2,6 +2,9 @@
 [![npm version](https://img.shields.io/npm/v/angular-schema-form-dynamic-select.svg?style=flat-square)](https://www.npmjs.org/package/angular-schema-form-dynamic-select)
 [![Join the chat at https://gitter.im/OptimalBPM/angular-schema-form-dynamic-select](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/OptimalBPM/angular-schema-form-dynamic-select?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+
+# WARNING: This component is currently looking for maintainers!
+
 Angular Schema Form Dynamic Select (ASFDS) add-on
 =================================================
 
